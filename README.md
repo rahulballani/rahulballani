@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I’m Rahul Ballani
+
+
+👀 I’m interested in web development, machine learning, and open-source software.
+
+🌱 I’m currently learning more about React, Node.js and TensorFlow.
+
+💞️ I’m looking to collaborate on projects that involve building innovative web applications with a focus on accessibility and user experience.
+
+📫 How to reach me: dev@rahulballani.com
 
 <!--
 **rahulballani/rahulballani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
